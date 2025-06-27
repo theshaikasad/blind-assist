@@ -5,8 +5,8 @@ A smart, AI-powered assistive system designed for visually impaired users. It pr
 
 Team Project by:
 
-- [Shaik Mohammed Asad (theshaikasad)](github.com/theshaikasad)
-- [Revant Thakkar (revant15)](github.com/revant15)
+- [Shaik Mohammed Asad](github.com/theshaikasad)
+- [Revant Thakkar](github.com/revant15)
 ---
 
 ## 🔍 Features
