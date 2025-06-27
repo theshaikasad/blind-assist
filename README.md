@@ -3,10 +3,10 @@
 > 👁️ "Eyes might fail. This never will."  
 A smart, AI-powered assistive system designed for visually impaired users. It provides real-time object detection, proximity alerts, and voice-based scene descriptions using just a webcam and speaker/headphones.
 
-Team Project by 
+Team Project by:
 
-@revant10
-@theshaikasad 
+- Shaik Mohammed Asad (theshaikasad)
+- Revant Thakkar (revant10)
 ---
 
 ## 🔍 Features
@@ -67,10 +67,6 @@ python blind_assist.py
 
 ## 📷 Screenshots
 
-To **add images** like a screenshot or system design diagram:
-
-1. Place the image in your repo (e.g., inside a `media/` folder).
-2. Use this syntax:
 
 ```markdown
 ![Object Detection Frame](media/frame_demo.png)
