@@ -69,7 +69,7 @@ python blind_assist.py
 
 
 ```markdown
-![hardware](media/7.png)
+![hardware](media/7.png) 
 ![working](media/8.png)
 ```
 
