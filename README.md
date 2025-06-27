@@ -68,10 +68,9 @@ python blind_assist.py
 ## 📷 Screenshots
 
 
-```markdown
+
 ![hardware](media/7.png) 
 ![working](media/8.png)
-```
 
 > 📌 Recommended structure:
 ```
