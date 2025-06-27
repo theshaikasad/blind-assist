@@ -69,7 +69,8 @@ python blind_assist.py
 
 
 ```markdown
-![Object Detection Frame](media/frame_demo.png)
+![hardware](media/7.png)
+![working](media/8.png)
 ```
 
 > 📌 Recommended structure:
