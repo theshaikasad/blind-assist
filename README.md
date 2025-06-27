@@ -3,6 +3,10 @@
 > 👁️ "Eyes might fail. This never will."  
 A smart, AI-powered assistive system designed for visually impaired users. It provides real-time object detection, proximity alerts, and voice-based scene descriptions using just a webcam and speaker/headphones.
 
+Team Project by 
+
+@revant10
+@theshaikasad 
 ---
 
 ## 🔍 Features
