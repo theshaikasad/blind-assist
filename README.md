@@ -92,6 +92,7 @@ blind-assist-device/
 - Use YOLOv8-Nano for faster inference
 - Implement voice command support
 - Add obstacle avoidance using ultrasonic sensors
+- Figuring out the right casing for the hardware
 
 ---
 
